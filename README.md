@@ -11,10 +11,12 @@
 
 #  A
 - [Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
-- [Aditya Patel](https://github.com/Adi-183)<br>
-- [Aman Soni](https://github.com/ssamansoni)<br>
+- [Aditya Patel](https://github.com/Adi-183)
+- [Aman Soni](https://github.com/ssamansoni)
 - [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 - [Arya Phadke](https://github.com/phadkearya)<br>
+- [Anurag Ravi](https://github.com/Anurag-ravi)<br>
+- [Anmoldeep Singh](https://github.com/mortal-ghost)<br>
 
 # B
 - [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
@@ -39,7 +41,8 @@
 # H
 - [Hetang Patel](https://github.com/hetang7802)<br>
 - [Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
-- [Hareesh Nandigrama](https://github.com/Hareesh-Nandigrama)<br>
+- [Hareesh Nandigrama](https://github.com/<brHareesh-Nandigrama)<br>
+- [Harshwardhan Bhakkad](https://github.com/HarshBhakkad)<br>
 
 # I
 
@@ -47,6 +50,8 @@
 
 # K
 - [Kartik Sharma](https://github.com/kaisawesome)<br>
+- [Kothapalli Kumudhavalli](https://github.com/kk-2603)<br>
+
 
 # L
 
@@ -61,6 +66,7 @@
 - [Pranjal Singh](https://github.com/pranjal198)<br>
 - [Pradeep Kumar](https://github.com/sirus-max)<br>
 - [Prakhar Pandey](https://github.com/p-prakhar)<br>
+
 
 # Q
 
