@@ -2,13 +2,10 @@
 # <p style="font-family: Arial, Helvetica, sans-serif;font-weight:600;">IITG-CSE-2024</p>
 
 
-<style>
 
-</style>
-
-<center>
+<p align="center">
 <img src="./assets/iitg_logo.png" width="200" height="200"/>
-</center>
+</p>
 
 ><h2>List of all GitHub handles of the class of 2024</h2>
 
