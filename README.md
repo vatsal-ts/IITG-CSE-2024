@@ -1,5 +1,5 @@
 <!-- font: brandon -->
-# <p style="font-family: Arial, Helvetica, sans-serif;font-weight:600;">IITG-CSE-2024</p>
+# <p style="font-family: Arial, Helvetica, sans-serif;font-weight:550;font-size:48px">IITG-CSE-2024</p>
 
 
 
@@ -7,7 +7,7 @@
 <img src="./assets/iitg_logo.png" width="200" height="200"/>
 </p>
 
-><h2>List of all GitHub handles of the class of 2024</h2>
+><h1>List of all GitHub handles of the class of 2024</h1>
 
 #  A
 - [Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
@@ -19,7 +19,7 @@
 # B
 - [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
 
-## C
+# C
 - [Chandrabhushan Reddy](https://github.com/demongod11)<br>
 
 # D
