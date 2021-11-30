@@ -1,99 +1,84 @@
-# IITG-CSE-2024
+<!-- font: brandon -->
+# <p style="font-family: Arial, Helvetica, sans-serif;font-weight:600;">IITG-CSE-2024</p>
 
-<p align="center">
-<img src="./assets/iitg_logo.png" width="100" height="100"/>
-</p>
 
-**List of all GitHub handles of the class of 2024**<br>
+<style>
 
-## A
+</style>
 
-[Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
+<center>
+<img src="./assets/iitg_logo.png" width="200" height="200"/>
+</center>
 
-[Aditya Patel](https://github.com/Adi-183)<br>
+><h2>List of all GitHub handles of the class of 2024</h2>
 
-[Aman Soni](https://github.com/ssamansoni)<br>
+#  A
+- [Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
+- [Aditya Patel](https://github.com/Adi-183)<br>
+- [Aman Soni](https://github.com/ssamansoni)<br>
+- [Akshat Mittal](https://github.com/akshatmittal2002)<br>
+- [Arya Phadke](https://github.com/phadkearya)<br>
 
-[Akshat Mittal](https://github.com/akshatmittal2002)<br>
-
-[Arya Phadke](https://github.com/phadkearya)<br>
-
-## B
-
-[BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
+# B
+- [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
 
 ## C
+- [Chandrabhushan Reddy](https://github.com/demongod11)<br>
 
-[Chandrabhushan Reddy](https://github.com/demongod11)<br>
+# D
 
-## D
+- [Dhruv Somani](https://github.com/dhruvsomani)<br>
+- [Dhruv Tarsadiya](https://github.com/DrDoofinstein)<br>
 
-[Dhruv Somani](https://github.com/dhruvsomani)<br>
+# E
 
-[Dhruv Tarsadiya](https://github.com/DrDoofinstein)<br>
+# F
 
-## E
+# G
+- [Ganji Pala Venki Reddy](https://github.com/PalaVenkiReddy)<br>
+- [Gannoju Manideepak](https://github.com/shield12345)<br>
+- [Gunjan Dhanuka](https://github.com/GunjanDhanuka)<br>
 
-## F
+# H
+- [Hetang Patel](https://github.com/hetang7802)<br>
+- [Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
+- [Hareesh Nandigrama](https://github.com/Hareesh-Nandigrama)<br>
 
-## G
+# I
 
-[Ganji Pala Venki Reddy](https://github.com/PalaVenkiReddy)<br>
+# J
 
-[Gannoju Manideepak](https://github.com/shield12345)<br>
+# K
+- [Kartik Sharma](https://github.com/kaisawesome)<br>
 
-[Gunjan Dhanuka](https://github.com/GunjanDhanuka)<br>
+# L
 
-## H
+# M
+- [Mansi](https://github.com/AnMaJ)<br>
 
-[Hetang Patel](https://github.com/hetang7802)<br>
+# N
 
-[Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
+# O
 
-[Hareesh Nandigrama](https://github.com/Hareesh-Nandigrama)<br>
+# P
+- [Pranjal Singh](https://github.com/pranjal198)<br>
+- [Pradeep Kumar](https://github.com/sirus-max)<br>
+- [Prakhar Pandey](https://github.com/p-prakhar)<br>
 
-## I
+# Q
 
-## J
+# R
 
-## K
+# S
+- [Siddharth Khincha](https://github.com/siddharthkhincha)<br>
+- [Sweeya Reddy](https://github.com/sweeya2)<br>
 
-[Kartik Sharma](https://github.com/kaisawesome)<br>
+# T
 
-## L
+# U
 
-## M
+# V
+- [Vatsal Gupta](https://github.com/vatsal-ts)<br>
 
-[Mansi](https://github.com/AnMaJ)<br>
-
-## N
-
-## O
-
-## P
-
-[Pranjal Singh](https://github.com/pranjal198)<br>
-[Pradeep Kumar](https://github.com/sirus-max)<br>
-
-[Prakhar Pandey](https://github.com/p-prakhar)<br>
-
-## Q
-
-## R
-
-## S
-
-[Siddharth Khincha](https://github.com/siddharthkhincha)<br>
-[Sweeya Reddy](https://github.com/sweeya2)<br>
-
-## T
-
-## U
-
-## V
-
-[Vatsal Gupta](https://github.com/vatsal-ts)<br>
-
-## Y
-
-[Yash Garg](https://github.com/YashGargIND)<br>
+# Y
+- [Yash Garg](https://github.com/YashGargIND)<br>
